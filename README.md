@@ -1,46 +1,53 @@
 # Hi, I'm Keith 👋
 
-Software Engineering & Artificial Intelligence student at Rochester Institute of Technology.
-
-I enjoy building AI applications, machine learning projects, developer tools, and full-stack software.
+Software Engineering & Artificial Intelligence student at Rochester Institute of Technology, building AI applications, developer tools, and full-stack software.
 
 ## About Me
-
 - 🎓 Studying Software Engineering & Artificial Intelligence at RIT
-- 🤖 President of the RIT AI Club
+- 🤖 President of the RIT AI Club (GCCIS-affiliated) — leading sponsorship outreach, guest speakers, and member programming
 - 🧠 Interested in AI/ML, software engineering, and full-stack development
-- 🛠️ Currently building projects with Python, JavaScript, PyTorch, and scikit-learn
+- 🛠️ Building practical software that combines AI with real-world applications
 
 ## Featured Projects
 
-### 🧠 CramAI
+### 🧠 [CramAI](https://cram-ai.vercel.app)
+**AI-powered study platform that turns course material into flashcards, quizzes, and summaries.**
 
-**AI-powered study platform designed to help students learn and review material more effectively.**
+Built with a FastAPI backend and Supabase, using the Anthropic Claude API to generate study content from parsed PDFs.
 
-CramAI is my most complete application and combines AI functionality with a polished, user-facing web experience.
+**Tech:** FastAPI · Supabase · Anthropic Claude API · Python
 
-🔗 **Live Demo:** [cram-ai.vercel.app](https://cram-ai.vercel.app)
-
-> The source repository is currently private.
+🔗 **[Try CramAI](https://cram-ai.vercel.app)**
+> Source code is currently private.
 
 ---
 
-### 🎬 CineML
-An end-to-end machine learning project exploring supervised learning, NLP, deep learning, and recommendation systems using movie data.
+### 🎬 [CineML](https://github.com/knicolosi313/CineML)
+**Progressive machine learning project covering classical ML, NLP, deep learning, and recommendation systems using movie datasets.**
 
-### 🌐 Personal Portfolio
-My personal portfolio built with HTML, CSS, and JavaScript with custom animations, responsive design, and accessibility features.
+Built as a self-directed exploration of the ML lifecycle: data wrangling, model evaluation, pipelines, sentiment analysis, and PyTorch-based recommender systems.
+
+**Tech:** Python · PyTorch · scikit-learn · pandas · NLP
+
+🔗 **[View Repository](https://github.com/knicolosi313/CineML)**
+
+---
+
+### 🌐 [Personal Portfolio](https://keithnicolosi.com)
+**Personal portfolio built from scratch with HTML, CSS, and JavaScript.**
+
+Focused on responsive design, accessibility, performance, and custom visual effects.
+
+**Tech:** HTML · CSS · JavaScript
+
+🌐 **[Visit Portfolio](https://keithnicolosi.com)**
+🔗 **[View Repository](https://github.com/knicolosi313/knicolosi313.github.io)**
 
 ## Technologies
-
 **Languages:** Python · Java · JavaScript · HTML · CSS
-
-**AI / Data:** PyTorch · scikit-learn · pandas · NumPy
-
+**AI / Data:** PyTorch · scikit-learn · pandas · NumPy · NLP
 **Tools:** Git · GitHub · Jupyter · VS Code
 
 ## Connect
-
 🌐 [keithnicolosi.com](https://keithnicolosi.com)
-
 💼 [LinkedIn](https://www.linkedin.com/in/keith-nicolosi313/)
