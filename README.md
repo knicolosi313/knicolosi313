@@ -20,7 +20,6 @@ A deployed full-stack application: upload a PDF, DOCX, TXT, or Markdown file and
 - **Cost-engineered generation** — flashcards, quizzes, and summaries come from a single combined AI call (~3× cheaper than fanning out per content type), and review, quiz, and CSV import/export flows use no AI tokens at all.
 - **Production hardening** — fail-closed authentication, per-user quotas, rate limiting, and a budget-reservation guard that refuses generation rather than spending unmetered.
 - **Four-job CI pipeline** — backend and frontend test suites, dependency audits, and a database security suite that applies the deployed schema to a live PostgreSQL instance to verify privileges, quotas, and concurrent budgets.
-- **Also included** — installable PWA with an offline app shell, shareable public decks, Anki CSV import/export, leech detection, and retention and confidence-calibration analytics.
 
 **Tech:** React · Vite · Tailwind · FastAPI · Supabase · PostgreSQL · OpenAI API · Vercel · Railway · pytest · Vitest
 
